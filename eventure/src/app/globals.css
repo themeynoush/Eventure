@@ -1,0 +1,13 @@
+@import "tailwindcss";
+
+:root {
+  color-scheme: light dark;
+}
+
+html, body, #__next {
+  height: 100%;
+}
+
+.text-muted-foreground { color: rgba(0,0,0,0.6); }
+
+/* Add utility overrides here if needed */
